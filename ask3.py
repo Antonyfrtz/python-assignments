@@ -15,7 +15,6 @@ def drawNo(day):
     html=r.read()
     html=html.decode()
     data=json.loads(html)
-    print(len(data))
     if len(data)!=0:
         return data[0]
     else:
