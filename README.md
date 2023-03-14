@@ -2,7 +2,7 @@
 ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΕΠΙΣΤΗΜΗ ΤΩΝ ΥΠΟΛΟΓΙΣΤΩΝ (1ο εξάμηνο)
 
 **ask1:**
-A small minigame that calculates number of four-in a row 1's (1111), diagonal, horizontal and vertical in a n by n (nxn) matrix
+A small minigame that calculates number of four-in a row 1's (1111), diagonal, horizontal and vertical in an n-dimensional (n given by user) matrix
 
 **ask3:**
 A data crawler that calculates number of appearances of each KINO number (1 to 81) in a one-month period using OPAP's API
