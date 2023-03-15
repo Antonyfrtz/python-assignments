@@ -12,5 +12,5 @@ A Twitter crawler that uses the tweepy package and Twitter API to find the large
 **Note: Twitter API details need to be filled in with your own to test it's functionality**
 
 **ask7:**
-A data crawler that calculates the most popular (most occurring) number/s today using OPAP's API
+A data crawler that calculates the most popular (most occurring) number/s today (current day) using OPAP's API
 
